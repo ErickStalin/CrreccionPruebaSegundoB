@@ -1,6 +1,8 @@
 # CrreccionPruebaSegundoB
 Erick Santillan
 
+Se ejecuta desde V1
+
 Imagenes que muestran que el combobox carga los datos desde base
 
 ![image](https://user-images.githubusercontent.com/117753868/221076605-b0555551-1126-4ba3-ab59-7803a8858849.png)

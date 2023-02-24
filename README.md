@@ -11,6 +11,12 @@ Imagenes que muestran que el combobox carga los datos desde base
 
 El programa realiza el CRUD correctamente 
 
+![image](https://user-images.githubusercontent.com/117753868/221077203-56c2a775-e535-4932-ac07-6bc1d886fb51.png)
+
 ![image](https://user-images.githubusercontent.com/117753868/221076895-386a72dd-e63c-4461-bb8c-fe17a309ee2c.png)
+
+![image](https://user-images.githubusercontent.com/117753868/221077370-803da662-6314-41e9-8629-16c73a93895e.png)
+
+![image](https://user-images.githubusercontent.com/117753868/221077302-b7e44ba5-024f-4743-99a3-674cc7e24bd2.png)
 
 

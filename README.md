@@ -1,6 +1,8 @@
 # CrreccionPruebaSegundoB
 Erick Santillan
 
+Link del video: https://vm.tiktok.com/ZMYAgTTbh/
+
 Se ejecuta desde V1
 
 Imagenes que muestran que el combobox carga los datos desde base

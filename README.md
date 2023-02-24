@@ -1,7 +1,7 @@
 # CrreccionPruebaSegundoB
 Erick Santillan
 
-Imagenes que muestran de que el combobox carga datos de la base
+Imagenes que muestran de que el combobox carga los datos desde base
 
 ![image](https://user-images.githubusercontent.com/117753868/221076605-b0555551-1126-4ba3-ab59-7803a8858849.png)
 
